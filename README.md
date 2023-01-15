@@ -1,7 +1,7 @@
 # Vas
 The Sudoku web app is a legacy sudoku game on the internet running in your browser.This app is deployed on azure and github pages : 
 Link for Azure :
-https://vas13.azurewebsites.net/
+https://vasuarora.azurewebsites.net/
 Link for GitHub Pages : 
 https://123vasu.github.io/Sudoku-/
 
